@@ -1,4 +1,4 @@
-# <img src="https://avatars1.githubusercontent.com/u/42723118?s=200&v=4" alt="CA" width="24" /> Desafio Bravo
+# <img src="https://avatars1.githubusercontent.com/u/42723118?s=200&v=4" alt="CA" width="24" /> Desafio Echo
 
 ## Sobre o desafio
 
