@@ -50,5 +50,5 @@ Quaisquer dúvidas que você venha a ter, consulte as [_issues_](https://github.
 Boa sorte! ;)
 
 <p align="center">
-  <img src="https://github.com/cybers-athletic/challenge-bravo/ca.jpg" alt="Challange accepted" />
+  <img src="https://github.com/cybers-athletic/challenge-charlie/blob/master/ca.jpg?raw=true" alt="Challange accepted" />
 </p>
