@@ -40,7 +40,7 @@ Você pode usar qualquer _framework_. Se a sua escolha for por um _framework_ qu
 - **Segurança**: Existe alguma vulnerabilidade clara?
 - **Cobertura de testes** (Não esperamos cobertura completa)
 - **Histórico de commits** (estrutura e qualidade)
-- **UX**: A interface é de fácil uso e auto-explicativa? A API é intuitiva?
+- **UX**: A interface é de fácil uso e auto-explicativa?
 - **Escolhas técnicas**: A escolha das bibliotecas, banco de dados, arquitetura, etc, é a melhor escolha para a aplicação?
 
 ## Dúvidas
